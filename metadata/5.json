@@ -1,0 +1,10 @@
+{
+  "name": "IBBA NFT_5",
+  "description": "IBBA NFTs",
+  "image": "https://firebasestorage.googleapis.com/v0/b/nft101-e636b.appspot.com/o/images%2F5.png?alt=media",
+  "attributes": [
+    {
+      "trait_type": "NFT_Value",
+      "value": "1000$"
+    }]
+}
